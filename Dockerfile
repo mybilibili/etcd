@@ -1,1 +1,2 @@
-FROM gcr.io/google_containers/etcd:3.3.10
+FROM k8s.gcr.io/etcd:3.5.0-0
+MAINTAINER shenyaqi <beaconx@qq.com>
